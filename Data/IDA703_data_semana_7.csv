@@ -1,0 +1,747 @@
+case_id,activity,timestamp,role
+C18,Inicio Proceso,2023-10-02 08:00:00.000000,Supervisor
+C38,Inicio Proceso,2023-10-02 08:00:00.000000,Gerente
+C5,Inicio Proceso,2023-10-02 08:00:00.000000,Supervisor
+C38,Evaluación Completa,2023-10-02 08:06:00.000000,Analista
+C18,Revisión Básica,2023-10-02 08:07:00.000000,Asistente
+C5,Revisión Básica,2023-10-02 08:22:00.000000,Asistente
+C18,Aprobación Rápida,2023-10-02 08:29:00.000000,Asistente
+C38,Revisión Técnica,2023-10-02 08:31:00.000000,Analista
+C38,Aprobación Formal,2023-10-02 08:37:00.000000,Gerente
+C38,Generación Reporte,2023-10-02 08:43:00.000000,Técnico
+C5,Aprobación Rápida,2023-10-02 08:46:00.000000,Supervisor
+C18,Registro Final,2023-10-02 08:47:00.000000,Asistente
+C38,Cierre Operativo,2023-10-02 08:56:00.000000,Analista
+C5,Registro Final,2023-10-02 09:02:00.000000,Supervisor
+C33,Inicio Proceso,2023-10-03 08:00:00.000000,Analista
+C33,Evaluación Completa,2023-10-03 08:25:00.000000,Gerente
+C33,Revisión Técnica,2023-10-03 08:36:00.000000,Técnico
+C33,Aprobación Formal,2023-10-03 08:50:00.000000,Analista
+C33,Generación Reporte,2023-10-03 09:12:00.000000,Sistema
+C33,Cierre Operativo,2023-10-03 09:34:00.000000,Analista
+C22,Inicio Proceso,2023-10-04 08:00:00.000000,Supervisor
+C27,Inicio Proceso,2023-10-04 08:00:00.000000,Analista
+C49,Inicio Proceso,2023-10-04 08:00:00.000000,Sistema
+C49,Evaluación Completa,2023-10-04 08:09:00.000000,Analista
+C22,Revisión Básica,2023-10-04 08:12:00.000000,Supervisor
+C27,Evaluación Completa,2023-10-04 08:23:00.000000,Sistema
+C49,Revisión Técnica,2023-10-04 08:23:00.000000,Técnico
+C22,Aprobación Rápida,2023-10-04 08:30:00.000000,Supervisor
+C22,Registro Final,2023-10-04 08:42:00.000000,Asistente
+C27,Revisión Técnica,2023-10-04 08:46:00.000000,Técnico
+C49,Aprobación Formal,2023-10-04 08:48:00.000000,Analista
+C49,Generación Reporte,2023-10-04 08:59:00.000000,Analista
+C27,Aprobación Formal,2023-10-04 09:04:00.000000,Técnico
+C49,Cierre Operativo,2023-10-04 09:18:00.000000,Sistema
+C27,Generación Reporte,2023-10-04 09:19:00.000000,Técnico
+C27,Cierre Operativo,2023-10-04 09:33:00.000000,Gerente
+C61,Inicio Proceso,2023-10-05 08:00:00.000000,Coordinador
+C61,Revisión Intermedia,2023-10-05 08:15:00.000000,Coordinador
+C61,Aprobación Intermedia,2023-10-05 08:35:00.000000,Coordinador
+C61,Notificación,2023-10-05 08:40:00.000000,Analista
+C61,Cierre Operativo,2023-10-05 08:57:00.000000,Sistema
+C64,Inicio Proceso,2023-10-06 08:00:00.000000,Analista
+C64,Revisión Intermedia,2023-10-06 08:14:00.000000,Sistema
+C64,Aprobación Intermedia,2023-10-06 08:20:00.000000,Sistema
+C64,Notificación,2023-10-06 08:28:00.000000,Sistema
+C64,Cierre Operativo,2023-10-06 08:48:00.000000,Coordinador
+C51,Inicio Proceso,2023-10-07 08:00:00.000000,Analista
+C75,Inicio Proceso,2023-10-07 08:00:00.000000,Coordinador
+C51,Revisión Intermedia,2023-10-07 08:09:00.000000,Analista
+C75,Revisión Intermedia,2023-10-07 08:17:00.000000,Sistema
+C51,Aprobación Intermedia,2023-10-07 08:31:00.000000,Sistema
+C75,Aprobación Intermedia,2023-10-07 08:35:00.000000,Coordinador
+C75,Notificación,2023-10-07 08:41:00.000000,Sistema
+C51,Notificación,2023-10-07 08:49:00.000000,Sistema
+C75,Cierre Operativo,2023-10-07 08:55:00.000000,Sistema
+C51,Cierre Operativo,2023-10-07 09:03:00.000000,Analista
+C30,Inicio Proceso,2023-10-08 08:00:00.000000,Analista
+C37,Inicio Proceso,2023-10-08 08:00:00.000000,Sistema
+C4,Inicio Proceso,2023-10-08 08:00:00.000000,Asistente
+C68,Inicio Proceso,2023-10-08 08:00:00.000000,Analista
+C37,Evaluación Completa,2023-10-08 08:06:00.000000,Sistema
+C30,Evaluación Completa,2023-10-08 08:20:00.000000,Analista
+C4,Revisión Básica,2023-10-08 08:22:00.000000,Supervisor
+C68,Revisión Intermedia,2023-10-08 08:23:00.000000,Analista
+C37,Revisión Técnica,2023-10-08 08:28:00.000000,Gerente
+C4,Aprobación Rápida,2023-10-08 08:30:00.000000,Asistente
+C68,Aprobación Intermedia,2023-10-08 08:30:00.000000,Sistema
+C30,Revisión Técnica,2023-10-08 08:31:00.000000,Sistema
+C37,Aprobación Formal,2023-10-08 08:39:00.000000,Analista
+C30,Aprobación Formal,2023-10-08 08:41:00.000000,Analista
+C37,Generación Reporte,2023-10-08 08:52:00.000000,Gerente
+C4,Registro Final,2023-10-08 08:52:00.000000,Supervisor
+C68,Notificación,2023-10-08 08:52:00.000000,Sistema
+C30,Generación Reporte,2023-10-08 08:54:00.000000,Analista
+C68,Cierre Operativo,2023-10-08 09:02:00.000000,Sistema
+C30,Cierre Operativo,2023-10-08 09:04:00.000000,Técnico
+C37,Cierre Operativo,2023-10-08 09:08:00.000000,Técnico
+C13,Inicio Proceso,2023-10-09 08:00:00.000000,Asistente
+C7,Inicio Proceso,2023-10-09 08:00:00.000000,Asistente
+C7,Revisión Básica,2023-10-09 08:08:00.000000,Asistente
+C13,Revisión Básica,2023-10-09 08:25:00.000000,Asistente
+C7,Aprobación Rápida,2023-10-09 08:33:00.000000,Supervisor
+C13,Aprobación Rápida,2023-10-09 08:44:00.000000,Supervisor
+C7,Registro Final,2023-10-09 08:45:00.000000,Asistente
+C13,Registro Final,2023-10-09 08:56:00.000000,Supervisor
+C10,Inicio Proceso,2023-10-10 08:00:00.000000,Asistente
+C54,Inicio Proceso,2023-10-10 08:00:00.000000,Coordinador
+C58,Inicio Proceso,2023-10-10 08:00:00.000000,Coordinador
+C58,Revisión Intermedia,2023-10-10 08:05:00.000000,Analista
+C58,Aprobación Intermedia,2023-10-10 08:13:00.000000,Coordinador
+C10,Revisión Básica,2023-10-10 08:23:00.000000,Supervisor
+C54,Revisión Intermedia,2023-10-10 08:24:00.000000,Analista
+C58,Notificación,2023-10-10 08:29:00.000000,Coordinador
+C10,Aprobación Rápida,2023-10-10 08:34:00.000000,Supervisor
+C54,Aprobación Intermedia,2023-10-10 08:34:00.000000,Analista
+C58,Cierre Operativo,2023-10-10 08:44:00.000000,Sistema
+C10,Registro Final,2023-10-10 08:48:00.000000,Asistente
+C54,Notificación,2023-10-10 08:53:00.000000,Coordinador
+C54,Cierre Operativo,2023-10-10 09:03:00.000000,Sistema
+C20,Inicio Proceso,2023-10-11 08:00:00.000000,Supervisor
+C26,Inicio Proceso,2023-10-11 08:00:00.000000,Analista
+C43,Inicio Proceso,2023-10-11 08:00:00.000000,Sistema
+C70,Inicio Proceso,2023-10-11 08:00:00.000000,Coordinador
+C26,Evaluación Completa,2023-10-11 08:15:00.000000,Técnico
+C20,Revisión Básica,2023-10-11 08:18:00.000000,Supervisor
+C43,Evaluación Completa,2023-10-11 08:18:00.000000,Gerente
+C26,Revisión Técnica,2023-10-11 08:21:00.000000,Técnico
+C70,Revisión Intermedia,2023-10-11 08:21:00.000000,Coordinador
+C20,Aprobación Rápida,2023-10-11 08:28:00.000000,Asistente
+C43,Revisión Técnica,2023-10-11 08:28:00.000000,Sistema
+C70,Aprobación Intermedia,2023-10-11 08:30:00.000000,Sistema
+C26,Aprobación Formal,2023-10-11 08:38:00.000000,Sistema
+C20,Registro Final,2023-10-11 08:42:00.000000,Supervisor
+C26,Generación Reporte,2023-10-11 08:43:00.000000,Técnico
+C70,Notificación,2023-10-11 08:44:00.000000,Sistema
+C43,Aprobación Formal,2023-10-11 08:46:00.000000,Técnico
+C26,Cierre Operativo,2023-10-11 08:53:00.000000,Sistema
+C70,Cierre Operativo,2023-10-11 08:53:00.000000,Coordinador
+C43,Generación Reporte,2023-10-11 08:57:00.000000,Técnico
+C43,Cierre Operativo,2023-10-11 09:16:00.000000,Sistema
+C2,Inicio Proceso,2023-10-12 08:00:00.000000,Supervisor
+C29,Inicio Proceso,2023-10-12 08:00:00.000000,Gerente
+C53,Inicio Proceso,2023-10-12 08:00:00.000000,Analista
+C60,Inicio Proceso,2023-10-12 08:00:00.000000,Coordinador
+C2,Revisión Básica,2023-10-12 08:05:00.000000,Asistente
+C53,Revisión Intermedia,2023-10-12 08:06:00.000000,Sistema
+C29,Evaluación Completa,2023-10-12 08:13:00.000000,Sistema
+C29,Revisión Técnica,2023-10-12 08:18:00.000000,Sistema
+C60,Revisión Intermedia,2023-10-12 08:21:00.000000,Coordinador
+C2,Aprobación Rápida,2023-10-12 08:26:00.000000,Supervisor
+C53,Aprobación Intermedia,2023-10-12 08:26:00.000000,Sistema
+C60,Aprobación Intermedia,2023-10-12 08:26:00.000000,Coordinador
+C29,Aprobación Formal,2023-10-12 08:36:00.000000,Técnico
+C2,Registro Final,2023-10-12 08:43:00.000000,Supervisor
+C53,Notificación,2023-10-12 08:46:00.000000,Sistema
+C60,Notificación,2023-10-12 08:47:00.000000,Sistema
+C29,Generación Reporte,2023-10-12 08:56:00.000000,Sistema
+C53,Cierre Operativo,2023-10-12 09:07:00.000000,Coordinador
+C60,Cierre Operativo,2023-10-12 09:12:00.000000,Sistema
+C29,Cierre Operativo,2023-10-12 09:15:00.000000,Gerente
+C14,Inicio Proceso,2023-10-13 08:00:00.000000,Asistente
+C21,Inicio Proceso,2023-10-13 08:00:00.000000,Asistente
+C41,Inicio Proceso,2023-10-13 08:00:00.000000,Gerente
+C73,Inicio Proceso,2023-10-13 08:00:00.000000,Sistema
+C73,Revisión Intermedia,2023-10-13 08:12:00.000000,Analista
+C14,Revisión Básica,2023-10-13 08:14:00.000000,Asistente
+C21,Revisión Básica,2023-10-13 08:14:00.000000,Supervisor
+C41,Evaluación Completa,2023-10-13 08:22:00.000000,Sistema
+C73,Aprobación Intermedia,2023-10-13 08:33:00.000000,Coordinador
+C14,Aprobación Rápida,2023-10-13 08:36:00.000000,Supervisor
+C21,Aprobación Rápida,2023-10-13 08:36:00.000000,Asistente
+C41,Revisión Técnica,2023-10-13 08:41:00.000000,Analista
+C21,Registro Final,2023-10-13 08:45:00.000000,Asistente
+C73,Notificación,2023-10-13 08:51:00.000000,Coordinador
+C14,Registro Final,2023-10-13 08:52:00.000000,Asistente
+C41,Aprobación Formal,2023-10-13 08:54:00.000000,Analista
+C41,Generación Reporte,2023-10-13 09:12:00.000000,Sistema
+C73,Cierre Operativo,2023-10-13 09:16:00.000000,Coordinador
+C41,Cierre Operativo,2023-10-13 09:36:00.000000,Gerente
+C17,Inicio Proceso,2023-10-14 08:00:00.000000,Asistente
+C55,Inicio Proceso,2023-10-14 08:00:00.000000,Coordinador
+C55,Revisión Intermedia,2023-10-14 08:17:00.000000,Analista
+C17,Revisión Básica,2023-10-14 08:21:00.000000,Supervisor
+C55,Aprobación Intermedia,2023-10-14 08:26:00.000000,Analista
+C17,Aprobación Rápida,2023-10-14 08:33:00.000000,Asistente
+C17,Registro Final,2023-10-14 08:45:00.000000,Supervisor
+C55,Notificación,2023-10-14 08:50:00.000000,Analista
+C55,Cierre Operativo,2023-10-14 09:10:00.000000,Coordinador
+C11,Inicio Proceso,2023-10-15 08:00:00.000000,Asistente
+C12,Inicio Proceso,2023-10-15 08:00:00.000000,Asistente
+C23,Inicio Proceso,2023-10-15 08:00:00.000000,Asistente
+C32,Inicio Proceso,2023-10-15 08:00:00.000000,Gerente
+C32,Evaluación Completa,2023-10-15 08:07:00.000000,Técnico
+C11,Revisión Básica,2023-10-15 08:09:00.000000,Supervisor
+C23,Revisión Básica,2023-10-15 08:19:00.000000,Supervisor
+C12,Revisión Básica,2023-10-15 08:25:00.000000,Asistente
+C11,Aprobación Rápida,2023-10-15 08:27:00.000000,Supervisor
+C32,Revisión Técnica,2023-10-15 08:30:00.000000,Gerente
+C11,Registro Final,2023-10-15 08:32:00.000000,Supervisor
+C23,Aprobación Rápida,2023-10-15 08:42:00.000000,Asistente
+C32,Aprobación Formal,2023-10-15 08:45:00.000000,Técnico
+C12,Aprobación Rápida,2023-10-15 08:48:00.000000,Supervisor
+C12,Registro Final,2023-10-15 08:59:00.000000,Asistente
+C32,Generación Reporte,2023-10-15 09:00:00.000000,Sistema
+C23,Registro Final,2023-10-15 09:04:00.000000,Supervisor
+C32,Cierre Operativo,2023-10-15 09:18:00.000000,Gerente
+C34,Inicio Proceso,2023-10-16 08:00:00.000000,Gerente
+C46,Inicio Proceso,2023-10-16 08:00:00.000000,Analista
+C59,Inicio Proceso,2023-10-16 08:00:00.000000,Analista
+C34,Evaluación Completa,2023-10-16 08:11:00.000000,Gerente
+C46,Evaluación Completa,2023-10-16 08:17:00.000000,Técnico
+C34,Revisión Técnica,2023-10-16 08:20:00.000000,Sistema
+C59,Revisión Intermedia,2023-10-16 08:22:00.000000,Analista
+C46,Revisión Técnica,2023-10-16 08:26:00.000000,Sistema
+C34,Aprobación Formal,2023-10-16 08:42:00.000000,Sistema
+C59,Aprobación Intermedia,2023-10-16 08:45:00.000000,Analista
+C46,Aprobación Formal,2023-10-16 08:51:00.000000,Sistema
+C34,Generación Reporte,2023-10-16 08:58:00.000000,Analista
+C59,Notificación,2023-10-16 09:00:00.000000,Sistema
+C46,Generación Reporte,2023-10-16 09:08:00.000000,Técnico
+C46,Cierre Operativo,2023-10-16 09:13:00.000000,Sistema
+C59,Cierre Operativo,2023-10-16 09:17:00.000000,Coordinador
+C34,Cierre Operativo,2023-10-16 09:19:00.000000,Sistema
+C52,Inicio Proceso,2023-10-17 08:00:00.000000,Analista
+C74,Inicio Proceso,2023-10-17 08:00:00.000000,Sistema
+C52,Revisión Intermedia,2023-10-17 08:07:00.000000,Sistema
+C74,Revisión Intermedia,2023-10-17 08:14:00.000000,Coordinador
+C52,Aprobación Intermedia,2023-10-17 08:21:00.000000,Coordinador
+C74,Aprobación Intermedia,2023-10-17 08:30:00.000000,Sistema
+C52,Notificación,2023-10-17 08:31:00.000000,Coordinador
+C74,Notificación,2023-10-17 08:47:00.000000,Coordinador
+C52,Cierre Operativo,2023-10-17 08:55:00.000000,Coordinador
+C74,Cierre Operativo,2023-10-17 09:12:00.000000,Sistema
+C67,Inicio Proceso,2023-10-18 08:00:00.000000,Analista
+C71,Inicio Proceso,2023-10-18 08:00:00.000000,Coordinador
+C67,Revisión Intermedia,2023-10-18 08:16:00.000000,Analista
+C71,Revisión Intermedia,2023-10-18 08:19:00.000000,Coordinador
+C67,Aprobación Intermedia,2023-10-18 08:31:00.000000,Analista
+C71,Aprobación Intermedia,2023-10-18 08:35:00.000000,Coordinador
+C71,Notificación,2023-10-18 08:42:00.000000,Analista
+C67,Notificación,2023-10-18 08:44:00.000000,Coordinador
+C71,Cierre Operativo,2023-10-18 08:57:00.000000,Analista
+C67,Cierre Operativo,2023-10-18 08:59:00.000000,Analista
+C25,Inicio Proceso,2023-10-19 08:00:00.000000,Supervisor
+C25,Revisión Básica,2023-10-19 08:06:00.000000,Supervisor
+C25,Aprobación Rápida,2023-10-19 08:20:00.000000,Supervisor
+C25,Registro Final,2023-10-19 08:26:00.000000,Supervisor
+C69,Inicio Proceso,2023-10-20 08:00:00.000000,Analista
+C8,Inicio Proceso,2023-10-20 08:00:00.000000,Supervisor
+C69,Revisión Intermedia,2023-10-20 08:09:00.000000,Analista
+C8,Revisión Básica,2023-10-20 08:14:00.000000,Supervisor
+C69,Aprobación Intermedia,2023-10-20 08:17:00.000000,Analista
+C8,Aprobación Rápida,2023-10-20 08:25:00.000000,Supervisor
+C69,Notificación,2023-10-20 08:40:00.000000,Coordinador
+C8,Registro Final,2023-10-20 08:49:00.000000,Asistente
+C69,Cierre Operativo,2023-10-20 09:04:00.000000,Analista
+C47,Inicio Proceso,2023-10-21 08:00:00.000000,Técnico
+C62,Inicio Proceso,2023-10-21 08:00:00.000000,Coordinador
+C63,Inicio Proceso,2023-10-21 08:00:00.000000,Coordinador
+C47,Evaluación Completa,2023-10-21 08:08:00.000000,Analista
+C63,Revisión Intermedia,2023-10-21 08:11:00.000000,Sistema
+C62,Revisión Intermedia,2023-10-21 08:16:00.000000,Analista
+C47,Revisión Técnica,2023-10-21 08:18:00.000000,Técnico
+C63,Aprobación Intermedia,2023-10-21 08:28:00.000000,Sistema
+C47,Aprobación Formal,2023-10-21 08:38:00.000000,Analista
+C62,Aprobación Intermedia,2023-10-21 08:38:00.000000,Sistema
+C63,Notificación,2023-10-21 08:44:00.000000,Sistema
+C62,Notificación,2023-10-21 08:49:00.000000,Sistema
+C63,Cierre Operativo,2023-10-21 08:53:00.000000,Coordinador
+C47,Generación Reporte,2023-10-21 08:57:00.000000,Gerente
+C47,Cierre Operativo,2023-10-21 09:03:00.000000,Técnico
+C62,Cierre Operativo,2023-10-21 09:12:00.000000,Analista
+C1,Inicio Proceso,2023-10-22 08:00:00.000000,Supervisor
+C28,Inicio Proceso,2023-10-22 08:00:00.000000,Analista
+C57,Inicio Proceso,2023-10-22 08:00:00.000000,Coordinador
+C57,Revisión Intermedia,2023-10-22 08:09:00.000000,Sistema
+C28,Evaluación Completa,2023-10-22 08:23:00.000000,Gerente
+C1,Revisión Básica,2023-10-22 08:25:00.000000,Supervisor
+C57,Aprobación Intermedia,2023-10-22 08:34:00.000000,Sistema
+C1,Aprobación Rápida,2023-10-22 08:40:00.000000,Asistente
+C28,Revisión Técnica,2023-10-22 08:43:00.000000,Analista
+C1,Registro Final,2023-10-22 08:52:00.000000,Asistente
+C28,Aprobación Formal,2023-10-22 08:54:00.000000,Analista
+C57,Notificación,2023-10-22 08:56:00.000000,Sistema
+C57,Cierre Operativo,2023-10-22 09:09:00.000000,Analista
+C28,Generación Reporte,2023-10-22 09:14:00.000000,Gerente
+C28,Cierre Operativo,2023-10-22 09:20:00.000000,Técnico
+C16,Inicio Proceso,2023-10-23 08:00:00.000000,Asistente
+C50,Inicio Proceso,2023-10-23 08:00:00.000000,Técnico
+C56,Inicio Proceso,2023-10-23 08:00:00.000000,Sistema
+C9,Inicio Proceso,2023-10-23 08:00:00.000000,Asistente
+C50,Evaluación Completa,2023-10-23 08:06:00.000000,Técnico
+C56,Revisión Intermedia,2023-10-23 08:15:00.000000,Coordinador
+C9,Revisión Básica,2023-10-23 08:16:00.000000,Asistente
+C16,Revisión Básica,2023-10-23 08:18:00.000000,Supervisor
+C50,Revisión Técnica,2023-10-23 08:18:00.000000,Gerente
+C9,Aprobación Rápida,2023-10-23 08:25:00.000000,Supervisor
+C56,Aprobación Intermedia,2023-10-23 08:27:00.000000,Coordinador
+C50,Aprobación Formal,2023-10-23 08:29:00.000000,Gerente
+C56,Notificación,2023-10-23 08:36:00.000000,Sistema
+C16,Aprobación Rápida,2023-10-23 08:37:00.000000,Supervisor
+C56,Cierre Operativo,2023-10-23 08:41:00.000000,Analista
+C9,Registro Final,2023-10-23 08:42:00.000000,Supervisor
+C50,Generación Reporte,2023-10-23 08:43:00.000000,Técnico
+C16,Registro Final,2023-10-23 08:45:00.000000,Asistente
+C50,Cierre Operativo,2023-10-23 08:54:00.000000,Analista
+C31,Inicio Proceso,2023-10-24 08:00:00.000000,Gerente
+C35,Inicio Proceso,2023-10-24 08:00:00.000000,Gerente
+C31,Evaluación Completa,2023-10-24 08:11:00.000000,Analista
+C35,Evaluación Completa,2023-10-24 08:24:00.000000,Gerente
+C31,Revisión Técnica,2023-10-24 08:36:00.000000,Analista
+C35,Revisión Técnica,2023-10-24 08:38:00.000000,Técnico
+C35,Aprobación Formal,2023-10-24 08:46:00.000000,Analista
+C31,Aprobación Formal,2023-10-24 08:51:00.000000,Técnico
+C35,Generación Reporte,2023-10-24 09:10:00.000000,Analista
+C31,Generación Reporte,2023-10-24 09:15:00.000000,Gerente
+C31,Cierre Operativo,2023-10-24 09:33:00.000000,Analista
+C35,Cierre Operativo,2023-10-24 09:33:00.000000,Analista
+C3,Inicio Proceso,2023-10-25 08:00:00.000000,Supervisor
+C44,Inicio Proceso,2023-10-25 08:00:00.000000,Técnico
+C3,Revisión Básica,2023-10-25 08:18:00.000000,Asistente
+C44,Evaluación Completa,2023-10-25 08:19:00.000000,Gerente
+C44,Revisión Técnica,2023-10-25 08:33:00.000000,Analista
+C3,Aprobación Rápida,2023-10-25 08:41:00.000000,Asistente
+C44,Aprobación Formal,2023-10-25 08:43:00.000000,Analista
+C44,Generación Reporte,2023-10-25 08:58:00.000000,Sistema
+C3,Registro Final,2023-10-25 08:59:00.000000,Asistente
+C44,Cierre Operativo,2023-10-25 09:07:00.000000,Técnico
+C24,Inicio Proceso,2023-10-26 08:00:00.000000,Asistente
+C6,Inicio Proceso,2023-10-26 08:00:00.000000,Asistente
+C72,Inicio Proceso,2023-10-26 08:00:00.000000,Coordinador
+C6,Revisión Básica,2023-10-26 08:05:00.000000,Supervisor
+C72,Revisión Intermedia,2023-10-26 08:07:00.000000,Analista
+C24,Revisión Básica,2023-10-26 08:08:00.000000,Asistente
+C72,Aprobación Intermedia,2023-10-26 08:20:00.000000,Coordinador
+C24,Aprobación Rápida,2023-10-26 08:22:00.000000,Supervisor
+C6,Aprobación Rápida,2023-10-26 08:27:00.000000,Supervisor
+C6,Registro Final,2023-10-26 08:33:00.000000,Asistente
+C72,Notificación,2023-10-26 08:43:00.000000,Sistema
+C24,Registro Final,2023-10-26 08:45:00.000000,Asistente
+C72,Cierre Operativo,2023-10-26 09:00:00.000000,Sistema
+C36,Inicio Proceso,2023-10-27 08:00:00.000000,Sistema
+C39,Inicio Proceso,2023-10-27 08:00:00.000000,Analista
+C40,Inicio Proceso,2023-10-27 08:00:00.000000,Analista
+C42,Inicio Proceso,2023-10-27 08:00:00.000000,Sistema
+C45,Inicio Proceso,2023-10-27 08:00:00.000000,Analista
+C39,Evaluación Completa,2023-10-27 08:12:00.000000,Sistema
+C40,Evaluación Completa,2023-10-27 08:12:00.000000,Sistema
+C42,Evaluación Completa,2023-10-27 08:14:00.000000,Técnico
+C36,Evaluación Completa,2023-10-27 08:17:00.000000,Sistema
+C40,Revisión Técnica,2023-10-27 08:21:00.000000,Técnico
+C45,Evaluación Completa,2023-10-27 08:24:00.000000,Técnico
+C36,Revisión Técnica,2023-10-27 08:26:00.000000,Sistema
+C39,Revisión Técnica,2023-10-27 08:27:00.000000,Sistema
+C42,Revisión Técnica,2023-10-27 08:29:00.000000,Técnico
+C40,Aprobación Formal,2023-10-27 08:34:00.000000,Gerente
+C40,Generación Reporte,2023-10-27 08:42:00.000000,Sistema
+C36,Aprobación Formal,2023-10-27 08:45:00.000000,Analista
+C39,Aprobación Formal,2023-10-27 08:49:00.000000,Analista
+C45,Revisión Técnica,2023-10-27 08:49:00.000000,Analista
+C42,Aprobación Formal,2023-10-27 08:52:00.000000,Analista
+C40,Cierre Operativo,2023-10-27 08:55:00.000000,Técnico
+C42,Generación Reporte,2023-10-27 08:58:00.000000,Analista
+C45,Aprobación Formal,2023-10-27 09:00:00.000000,Sistema
+C39,Generación Reporte,2023-10-27 09:03:00.000000,Analista
+C36,Generación Reporte,2023-10-27 09:06:00.000000,Técnico
+C42,Cierre Operativo,2023-10-27 09:06:00.000000,Gerente
+C45,Generación Reporte,2023-10-27 09:11:00.000000,Gerente
+C36,Cierre Operativo,2023-10-27 09:20:00.000000,Técnico
+C45,Cierre Operativo,2023-10-27 09:20:00.000000,Analista
+C39,Cierre Operativo,2023-10-27 09:28:00.000000,Analista
+C15,Inicio Proceso,2023-10-28 08:00:00.000000,Asistente
+C19,Inicio Proceso,2023-10-28 08:00:00.000000,Supervisor
+C48,Inicio Proceso,2023-10-28 08:00:00.000000,Analista
+C65,Inicio Proceso,2023-10-28 08:00:00.000000,Sistema
+C66,Inicio Proceso,2023-10-28 08:00:00.000000,Analista
+C15,Revisión Básica,2023-10-28 08:10:00.000000,Supervisor
+C66,Revisión Intermedia,2023-10-28 08:10:00.000000,Analista
+C48,Evaluación Completa,2023-10-28 08:14:00.000000,Técnico
+C65,Revisión Intermedia,2023-10-28 08:20:00.000000,Coordinador
+C19,Revisión Básica,2023-10-28 08:21:00.000000,Asistente
+C48,Revisión Técnica,2023-10-28 08:24:00.000000,Técnico
+C66,Aprobación Intermedia,2023-10-28 08:25:00.000000,Sistema
+C15,Aprobación Rápida,2023-10-28 08:28:00.000000,Supervisor
+C65,Aprobación Intermedia,2023-10-28 08:28:00.000000,Sistema
+C15,Registro Final,2023-10-28 08:35:00.000000,Asistente
+C48,Aprobación Formal,2023-10-28 08:39:00.000000,Analista
+C19,Aprobación Rápida,2023-10-28 08:42:00.000000,Supervisor
+C65,Notificación,2023-10-28 08:43:00.000000,Coordinador
+C19,Registro Final,2023-10-28 08:48:00.000000,Asistente
+C66,Notificación,2023-10-28 08:50:00.000000,Analista
+C48,Generación Reporte,2023-10-28 08:56:00.000000,Sistema
+C65,Cierre Operativo,2023-10-28 09:00:00.000000,Analista
+C66,Cierre Operativo,2023-10-28 09:14:00.000000,Sistema
+C48,Cierre Operativo,2023-10-28 09:20:00.000000,Analista
+1,Recepción de Solicitud,2023-10-01 08:19:56.566432,Analista Financiero
+1,Asignación de Recursos,2023-10-01 08:36:22.270876,Analista Técnico
+1,Cierre de Caso,2023-10-01 08:52:47.977290,Auditor
+1,Aprobación de Supervisor,2023-10-01 09:12:51.285677,Operador
+1,Revisión Financiera,2023-10-01 09:31:17.180694,Supervisor
+10,Asignación de Recursos,2023-10-01 12:43:19.950042,Operador
+10,Revisión Financiera,2023-10-01 12:55:11.717431,Asistente
+10,Recepción de Solicitud,2023-10-01 13:06:17.158290,Operador
+10,Control de Calidad,2023-10-01 13:18:09.491324,Asistente
+10,Evaluación Técnica,2023-10-01 13:25:52.304795,Operador
+10,Cierre de Caso,2023-10-01 13:37:07.265910,Asistente
+10,Ejecución de Tarea,2023-10-01 13:49:31.441160,Operador
+11,Ejecución de Tarea,2023-10-01 13:16:52.462797,Analista Técnico
+11,Control de Calidad,2023-10-01 13:36:34.984694,Auditor
+11,Asignación de Recursos,2023-10-01 13:55:07.108470,Operador
+11,Aprobación de Supervisor,2023-10-01 14:11:56.210888,Supervisor
+11,Evaluación Técnica,2023-10-01 14:30:50.476623,Analista Técnico
+12,Recepción de Solicitud,2023-10-01 13:43:05.534420,Auditor
+12,Evaluación Técnica,2023-10-01 13:56:03.335319,Operador
+12,Ejecución de Tarea,2023-10-01 14:06:52.567403,Analista Técnico
+12,Revisión Financiera,2023-10-01 14:21:12.955714,Analista Financiero
+12,Aprobación de Supervisor,2023-10-01 14:35:29.136224,Auditor
+12,Asignación de Recursos,2023-10-01 14:49:14.603716,Operador
+13,Revisión Financiera,2023-10-01 14:19:31.280223,Supervisor
+13,Control de Calidad,2023-10-01 14:38:07.412916,Asistente
+13,Ejecución de Tarea,2023-10-01 14:58:00.464596,Auditor
+13,Recepción de Solicitud,2023-10-01 15:19:01.356664,Analista Técnico
+14,Aprobación de Supervisor,2023-10-01 14:45:05.375785,Analista Técnico
+14,Control de Calidad,2023-10-01 14:56:29.432534,Asistente
+14,Cierre de Caso,2023-10-01 15:11:40.560164,Auditor
+14,Revisión Financiera,2023-10-01 15:27:02.097084,Supervisor
+14,Asignación de Recursos,2023-10-01 15:47:11.995433,Encargado de Recursos
+14,Recepción de Solicitud,2023-10-01 16:02:03.221412,Analista Técnico
+15,Asignación de Recursos,2023-10-01 15:18:59.231578,Operador
+15,Control de Calidad,2023-10-01 15:37:11.556382,Encargado de Recursos
+15,Recepción de Solicitud,2023-10-01 15:55:28.573056,Supervisor
+15,Revisión Financiera,2023-10-01 16:10:21.539402,Operador
+15,Cierre de Caso,2023-10-01 16:29:51.967560,Encargado de Recursos
+16,Ejecución de Tarea,2023-10-01 15:40:31.043088,Analista Financiero
+16,Recepción de Solicitud,2023-10-01 15:51:52.994807,Asistente
+16,Control de Calidad,2023-10-01 16:04:34.860418,Operador
+16,Revisión Financiera,2023-10-01 16:16:04.350786,Supervisor
+16,Evaluación Técnica,2023-10-01 16:25:28.178621,Analista Técnico
+16,Asignación de Recursos,2023-10-01 16:38:06.313625,Auditor
+17,Evaluación Técnica,2023-10-01 16:15:52.876943,Operador
+17,Aprobación de Supervisor,2023-10-01 16:27:05.771362,Supervisor
+17,Asignación de Recursos,2023-10-01 16:39:14.008794,Asistente
+17,Cierre de Caso,2023-10-01 16:53:38.515674,Analista Técnico
+17,Revisión Financiera,2023-10-01 17:03:57.696770,Operador
+17,Recepción de Solicitud,2023-10-01 17:17:11.876776,Supervisor
+18,Ejecución de Tarea,2023-10-01 16:52:39.221642,Encargado de Recursos
+18,Aprobación de Supervisor,2023-10-01 17:16:21.076093,Analista Financiero
+18,Recepción de Solicitud,2023-10-01 17:36:00.677714,Asistente
+18,Revisión Financiera,2023-10-01 17:55:30.258627,Operador
+19,Asignación de Recursos,2023-10-01 17:14:47.670863,Analista Financiero
+19,Ejecución de Tarea,2023-10-01 17:27:32.164975,Encargado de Recursos
+19,Aprobación de Supervisor,2023-10-01 17:42:06.132497,Analista Técnico
+19,Revisión Financiera,2023-10-01 17:56:47.398272,Operador
+19,Control de Calidad,2023-10-01 18:09:27.773180,Supervisor
+19,Cierre de Caso,2023-10-01 18:27:17.763200,Analista Financiero
+2,Control de Calidad,2023-10-01 08:42:20.638710,Auditor
+2,Evaluación Técnica,2023-10-01 08:56:06.200463,Asistente
+2,Ejecución de Tarea,2023-10-01 09:05:33.133114,Operador
+2,Revisión Financiera,2023-10-01 09:15:22.669255,Supervisor
+2,Aprobación de Supervisor,2023-10-01 09:27:31.721032,Auditor
+2,Cierre de Caso,2023-10-01 09:38:46.707578,Asistente
+20,Control de Calidad,2023-10-01 17:49:08.575669,Encargado de Recursos
+20,Ejecución de Tarea,2023-10-01 18:11:48.563291,Auditor
+20,Cierre de Caso,2023-10-01 18:35:13.132230,Analista Financiero
+20,Evaluación Técnica,2023-10-01 18:54:40.187821,Supervisor
+21,Recepción de Solicitud,2023-10-01 18:18:15.783964,Encargado de Recursos
+21,Revisión Financiera,2023-10-01 18:32:14.506197,Operador
+21,Control de Calidad,2023-10-01 18:45:12.226664,Analista Financiero
+21,Evaluación Técnica,2023-10-01 18:57:53.653739,Supervisor
+21,Aprobación de Supervisor,2023-10-01 19:10:43.925311,Analista Técnico
+21,Ejecución de Tarea,2023-10-01 19:25:02.841912,Encargado de Recursos
+22,Cierre de Caso,2023-10-01 18:43:58.617826,Analista Técnico
+22,Ejecución de Tarea,2023-10-01 19:00:50.099514,Operador
+22,Evaluación Técnica,2023-10-01 19:14:15.398293,Asistente
+22,Asignación de Recursos,2023-10-01 19:33:38.876192,Analista Financiero
+22,Aprobación de Supervisor,2023-10-01 19:48:51.013872,Supervisor
+22,Revisión Financiera,2023-10-01 20:01:05.212564,Analista Técnico
+23,Ejecución de Tarea,2023-10-01 19:14:12.135434,Analista Técnico
+23,Recepción de Solicitud,2023-10-01 19:27:55.379324,Asistente
+23,Evaluación Técnica,2023-10-01 19:40:33.095230,Operador
+23,Revisión Financiera,2023-10-01 19:51:37.935359,Auditor
+23,Cierre de Caso,2023-10-01 20:01:22.609067,Analista Técnico
+23,Control de Calidad,2023-10-01 20:13:15.482648,Asistente
+24,Cierre de Caso,2023-10-01 19:44:43.601651,Encargado de Recursos
+24,Asignación de Recursos,2023-10-01 19:59:52.659676,Analista Técnico
+24,Recepción de Solicitud,2023-10-01 20:12:29.416723,Supervisor
+24,Aprobación de Supervisor,2023-10-01 20:27:10.683675,Encargado de Recursos
+24,Control de Calidad,2023-10-01 20:41:40.488661,Analista Técnico
+24,Revisión Financiera,2023-10-01 20:53:46.152165,Supervisor
+25,Cierre de Caso,2023-10-01 20:16:04.345614,Auditor
+25,Aprobación de Supervisor,2023-10-01 20:27:16.914658,Supervisor
+25,Evaluación Técnica,2023-10-01 20:39:22.265021,Analista Técnico
+25,Ejecución de Tarea,2023-10-01 20:54:21.958621,Encargado de Recursos
+25,Recepción de Solicitud,2023-10-01 21:09:21.502303,Analista Financiero
+25,Control de Calidad,2023-10-01 21:24:21.197393,Operador
+26,Recepción de Solicitud,2023-10-01 20:48:47.116786,Auditor
+26,Asignación de Recursos,2023-10-01 21:06:57.920311,Supervisor
+26,Evaluación Técnica,2023-10-01 21:23:12.724576,Encargado de Recursos
+26,Cierre de Caso,2023-10-01 21:41:36.437457,Analista Financiero
+26,Aprobación de Supervisor,2023-10-01 21:56:56.335006,Analista Técnico
+26,Control de Calidad,2023-10-01 22:13:20.553348,Operador
+27,Cierre de Caso,2023-10-01 21:09:31.659999,Auditor
+27,Evaluación Técnica,2023-10-01 21:24:09.743044,Analista Técnico
+27,Ejecución de Tarea,2023-10-01 21:34:11.948962,Analista Financiero
+27,Aprobación de Supervisor,2023-10-01 21:46:31.048961,Supervisor
+27,Asignación de Recursos,2023-10-01 22:01:57.454855,Encargado de Recursos
+27,Control de Calidad,2023-10-01 22:15:20.900280,Asistente
+28,Cierre de Caso,2023-10-01 21:43:51.691318,Analista Financiero
+28,Recepción de Solicitud,2023-10-01 21:59:37.001662,Auditor
+28,Ejecución de Tarea,2023-10-01 22:15:01.805596,Operador
+28,Revisión Financiera,2023-10-01 22:29:02.948868,Asistente
+28,Evaluación Técnica,2023-10-01 22:48:39.557472,Supervisor
+29,Revisión Financiera,2023-10-01 22:27:03.977526,Operador
+29,Evaluación Técnica,2023-10-01 22:57:09.661428,Analista Técnico
+29,Aprobación de Supervisor,2023-10-01 23:23:57.950842,Auditor
+3,Evaluación Técnica,2023-10-01 09:19:38.732692,Analista Técnico
+3,Recepción de Solicitud,2023-10-01 09:35:54.494376,Analista Financiero
+3,Asignación de Recursos,2023-10-01 09:52:45.452601,Asistente
+3,Cierre de Caso,2023-10-01 10:06:37.337659,Analista Técnico
+3,Revisión Financiera,2023-10-01 10:22:14.866572,Analista Financiero
+30,Control de Calidad,2023-10-01 22:41:10.227609,Analista Técnico
+30,Revisión Financiera,2023-10-01 22:54:04.350639,Supervisor
+30,Asignación de Recursos,2023-10-01 23:06:41.620380,Operador
+30,Aprobación de Supervisor,2023-10-01 23:18:57.484050,Asistente
+30,Ejecución de Tarea,2023-10-01 23:36:03.601737,Analista Financiero
+30,Recepción de Solicitud,2023-10-01 23:50:26.462720,Analista Técnico
+4,Aprobación de Supervisor,2023-10-01 09:49:26.242551,Supervisor
+4,Revisión Financiera,2023-10-01 10:09:29.558495,Encargado de Recursos
+4,Control de Calidad,2023-10-01 10:28:55.672896,Analista Financiero
+4,Evaluación Técnica,2023-10-01 10:53:16.265472,Asistente
+5,Asignación de Recursos,2023-10-01 10:18:02.486470,Analista Financiero
+5,Ejecución de Tarea,2023-10-01 10:38:56.537810,Asistente
+5,Recepción de Solicitud,2023-10-01 10:55:30.365103,Operador
+5,Evaluación Técnica,2023-10-01 11:13:19.970485,Analista Técnico
+6,Asignación de Recursos,2023-10-01 10:43:35.965268,Operador
+6,Cierre de Caso,2023-10-01 10:56:49.675886,Analista Financiero
+6,Evaluación Técnica,2023-10-01 11:07:42.096309,Encargado de Recursos
+6,Revisión Financiera,2023-10-01 11:20:05.558066,Supervisor
+6,Ejecución de Tarea,2023-10-01 11:33:00.124475,Analista Técnico
+6,Control de Calidad,2023-10-01 11:48:56.822204,Operador
+7,Recepción de Solicitud,2023-10-01 11:20:09.561498,Auditor
+7,Cierre de Caso,2023-10-01 11:39:44.102230,Analista Financiero
+7,Ejecución de Tarea,2023-10-01 12:01:53.274756,Asistente
+7,Aprobación de Supervisor,2023-10-01 12:24:52.766070,Encargado de Recursos
+8,Revisión Financiera,2023-10-01 11:47:59.628419,Encargado de Recursos
+8,Ejecución de Tarea,2023-10-01 12:07:16.570641,Operador
+8,Cierre de Caso,2023-10-01 12:23:38.946540,Supervisor
+8,Evaluación Técnica,2023-10-01 12:40:36.544270,Asistente
+8,Aprobación de Supervisor,2023-10-01 12:55:43.660880,Encargado de Recursos
+9,Evaluación Técnica,2023-10-01 12:12:31.548454,Encargado de Recursos
+9,Recepción de Solicitud,2023-10-01 12:27:12.162071,Auditor
+9,Ejecución de Tarea,2023-10-01 12:40:35.748063,Analista Técnico
+9,Cierre de Caso,2023-10-01 12:51:58.523361,Supervisor
+9,Control de Calidad,2023-10-01 13:05:22.080502,Asistente
+9,Asignación de Recursos,2023-10-01 13:21:06.834559,Analista Financiero
+31,Control de Calidad,2023-10-02 08:07:20.851634,Auditor
+31,Aprobación de Supervisor,2023-10-02 08:09:35.483040,Supervisor
+31,Recepción de Solicitud,2023-10-02 08:13:54.330754,Encargado de Recursos
+31,Revisión Financiera,2023-10-02 08:21:43.315894,Analista Técnico
+31,Asignación de Recursos,2023-10-02 08:25:35.351360,Operador
+31,Evaluación Técnica,2023-10-02 08:31:45.565494,Asistente
+310,Aprobación de Supervisor,2023-10-02 12:39:49.548220,Asistente
+310,Recepción de Solicitud,2023-10-02 12:49:18.991294,Operador
+310,Asignación de Recursos,2023-10-02 12:58:48.941451,Analista Financiero
+310,Evaluación Técnica,2023-10-02 13:07:02.020535,Auditor
+311,Ejecución de Tarea,2023-10-02 13:07:32.151649,Operador
+311,Asignación de Recursos,2023-10-02 13:12:49.642045,Analista Financiero
+311,Aprobación de Supervisor,2023-10-02 13:16:45.719663,Asistente
+311,Revisión Financiera,2023-10-02 13:21:42.290643,Supervisor
+311,Recepción de Solicitud,2023-10-02 13:28:06.979699,Operador
+311,Control de Calidad,2023-10-02 13:32:34.470034,Analista Financiero
+312,Cierre de Caso,2023-10-02 13:34:38.055799,Analista Técnico
+312,Recepción de Solicitud,2023-10-02 13:39:20.420183,Supervisor
+312,Aprobación de Supervisor,2023-10-02 13:45:27.155156,Auditor
+312,Revisión Financiera,2023-10-02 13:48:12.274015,Analista Financiero
+312,Ejecución de Tarea,2023-10-02 13:51:02.267342,Operador
+312,Asignación de Recursos,2023-10-02 13:55:14.943016,Analista Técnico
+313,Cierre de Caso,2023-10-02 14:07:52.246797,Auditor
+313,Aprobación de Supervisor,2023-10-02 14:13:42.381816,Analista Técnico
+313,Control de Calidad,2023-10-02 14:19:49.427513,Asistente
+313,Asignación de Recursos,2023-10-02 14:23:58.451632,Analista Financiero
+313,Revisión Financiera,2023-10-02 14:30:05.557698,Operador
+313,Evaluación Técnica,2023-10-02 14:35:40.246304,Encargado de Recursos
+314,Cierre de Caso,2023-10-02 14:40:59.291783,Asistente
+314,Asignación de Recursos,2023-10-02 14:48:41.603679,Supervisor
+314,Control de Calidad,2023-10-02 14:57:25.172199,Analista Financiero
+314,Aprobación de Supervisor,2023-10-02 15:06:43.352592,Analista Técnico
+314,Revisión Financiera,2023-10-02 15:13:50.569249,Operador
+315,Aprobación de Supervisor,2023-10-02 15:04:58.443450,Operador
+315,Revisión Financiera,2023-10-02 15:11:32.589295,Analista Financiero
+315,Control de Calidad,2023-10-02 15:19:03.553714,Encargado de Recursos
+315,Ejecución de Tarea,2023-10-02 15:28:28.895571,Asistente
+315,Asignación de Recursos,2023-10-02 15:36:55.212694,Auditor
+315,Cierre de Caso,2023-10-02 15:47:44.799213,Operador
+316,Aprobación de Supervisor,2023-10-02 15:40:04.408974,Auditor
+316,Recepción de Solicitud,2023-10-02 15:44:09.045802,Analista Técnico
+316,Evaluación Técnica,2023-10-02 15:48:09.911803,Supervisor
+316,Cierre de Caso,2023-10-02 15:52:39.617307,Encargado de Recursos
+316,Asignación de Recursos,2023-10-02 15:54:06.382442,Operador
+316,Revisión Financiera,2023-10-02 15:58:44.924461,Auditor
+317,Recepción de Solicitud,2023-10-02 16:09:27.183868,Analista Técnico
+317,Cierre de Caso,2023-10-02 16:17:03.278096,Analista Financiero
+317,Revisión Financiera,2023-10-02 16:21:36.093024,Encargado de Recursos
+317,Evaluación Técnica,2023-10-02 16:25:30.326630,Operador
+317,Aprobación de Supervisor,2023-10-02 16:32:11.400298,Auditor
+317,Ejecución de Tarea,2023-10-02 16:35:15.015680,Analista Técnico
+318,Ejecución de Tarea,2023-10-02 16:33:18.629232,Analista Financiero
+318,Aprobación de Supervisor,2023-10-02 16:42:45.299293,Auditor
+318,Cierre de Caso,2023-10-02 16:49:15.759887,Operador
+318,Asignación de Recursos,2023-10-02 16:58:28.503220,Analista Técnico
+318,Revisión Financiera,2023-10-02 17:02:01.377277,Analista Financiero
+318,Evaluación Técnica,2023-10-02 17:07:33.657650,Auditor
+318,Control de Calidad,2023-10-02 17:14:18.492270,Operador
+319,Evaluación Técnica,2023-10-02 17:05:30.704384,Operador
+319,Ejecución de Tarea,2023-10-02 17:12:52.437681,Encargado de Recursos
+319,Cierre de Caso,2023-10-02 17:20:45.691992,Analista Técnico
+319,Revisión Financiera,2023-10-02 17:29:26.243488,Auditor
+319,Recepción de Solicitud,2023-10-02 17:38:30.456109,Asistente
+32,Control de Calidad,2023-10-02 08:31:53.525962,Operador
+32,Aprobación de Supervisor,2023-10-02 08:38:13.077488,Auditor
+32,Recepción de Solicitud,2023-10-02 08:46:05.247353,Supervisor
+32,Cierre de Caso,2023-10-02 08:51:57.991414,Analista Técnico
+32,Revisión Financiera,2023-10-02 09:03:36.358814,Operador
+320,Cierre de Caso,2023-10-02 17:38:45.529525,Auditor
+320,Revisión Financiera,2023-10-02 17:45:21.362984,Encargado de Recursos
+320,Ejecución de Tarea,2023-10-02 17:56:33.153064,Operador
+320,Asignación de Recursos,2023-10-02 18:04:52.685863,Analista Financiero
+321,Asignación de Recursos,2023-10-02 18:10:49.605760,Operador
+321,Evaluación Técnica,2023-10-02 18:17:38.694921,Encargado de Recursos
+321,Revisión Financiera,2023-10-02 18:26:54.248294,Analista Técnico
+321,Control de Calidad,2023-10-02 18:35:30.658267,Analista Financiero
+321,Ejecución de Tarea,2023-10-02 18:45:33.858913,Asistente
+321,Recepción de Solicitud,2023-10-02 18:50:57.032957,Supervisor
+322,Revisión Financiera,2023-10-02 18:33:33.125470,Supervisor
+322,Ejecución de Tarea,2023-10-02 18:35:23.534100,Auditor
+322,Aprobación de Supervisor,2023-10-02 18:40:46.321771,Operador
+322,Recepción de Solicitud,2023-10-02 18:48:07.543333,Supervisor
+322,Asignación de Recursos,2023-10-02 18:57:02.942670,Auditor
+322,Cierre de Caso,2023-10-02 19:03:06.950535,Operador
+322,Evaluación Técnica,2023-10-02 19:12:17.500892,Supervisor
+323,Ejecución de Tarea,2023-10-02 19:08:32.580245,Auditor
+323,Evaluación Técnica,2023-10-02 19:16:15.149266,Supervisor
+323,Recepción de Solicitud,2023-10-02 19:19:53.548605,Asistente
+323,Revisión Financiera,2023-10-02 19:27:29.346591,Encargado de Recursos
+324,Control de Calidad,2023-10-02 19:33:21.990951,Analista Técnico
+324,Aprobación de Supervisor,2023-10-02 19:37:35.103446,Encargado de Recursos
+324,Recepción de Solicitud,2023-10-02 19:40:42.774348,Analista Financiero
+324,Asignación de Recursos,2023-10-02 19:45:50.029381,Asistente
+324,Ejecución de Tarea,2023-10-02 19:52:59.422984,Supervisor
+324,Cierre de Caso,2023-10-02 19:56:15.912383,Analista Técnico
+325,Evaluación Técnica,2023-10-02 20:07:53.399148,Auditor
+325,Asignación de Recursos,2023-10-02 20:13:55.412860,Encargado de Recursos
+325,Aprobación de Supervisor,2023-10-02 20:20:55.217734,Supervisor
+325,Control de Calidad,2023-10-02 20:26:37.715178,Operador
+325,Cierre de Caso,2023-10-02 20:38:39.724985,Auditor
+33,Cierre de Caso,2023-10-02 09:09:03.144312,Supervisor
+33,Evaluación Técnica,2023-10-02 09:12:21.032371,Encargado de Recursos
+33,Asignación de Recursos,2023-10-02 09:20:50.803539,Operador
+33,Ejecución de Tarea,2023-10-02 09:27:02.223024,Asistente
+33,Recepción de Solicitud,2023-10-02 09:31:14.633503,Auditor
+34,Control de Calidad,2023-10-02 09:36:51.481424,Supervisor
+34,Evaluación Técnica,2023-10-02 09:42:48.348966,Analista Financiero
+34,Aprobación de Supervisor,2023-10-02 09:49:45.076221,Analista Técnico
+34,Cierre de Caso,2023-10-02 09:57:47.637076,Auditor
+34,Recepción de Solicitud,2023-10-02 10:07:41.064268,Supervisor
+34,Asignación de Recursos,2023-10-02 10:11:55.631582,Analista Financiero
+35,Ejecución de Tarea,2023-10-02 10:13:20.575568,Auditor
+35,Revisión Financiera,2023-10-02 10:26:04.272095,Supervisor
+35,Aprobación de Supervisor,2023-10-02 10:36:59.525656,Analista Financiero
+35,Control de Calidad,2023-10-02 10:48:44.528489,Asistente
+36,Cierre de Caso,2023-10-02 10:37:49.261802,Analista Financiero
+36,Recepción de Solicitud,2023-10-02 10:43:32.532594,Analista Técnico
+36,Ejecución de Tarea,2023-10-02 10:52:26.904523,Asistente
+36,Asignación de Recursos,2023-10-02 11:00:10.200409,Encargado de Recursos
+36,Control de Calidad,2023-10-02 11:08:54.163807,Supervisor
+37,Aprobación de Supervisor,2023-10-02 11:09:43.452963,Analista Técnico
+37,Evaluación Técnica,2023-10-02 11:19:10.475125,Auditor
+37,Recepción de Solicitud,2023-10-02 11:27:21.744664,Supervisor
+37,Asignación de Recursos,2023-10-02 11:35:49.601681,Asistente
+37,Control de Calidad,2023-10-02 11:46:36.699199,Analista Técnico
+38,Aprobación de Supervisor,2023-10-02 11:35:24.299686,Encargado de Recursos
+38,Cierre de Caso,2023-10-02 11:43:26.574339,Auditor
+38,Ejecución de Tarea,2023-10-02 11:50:56.045731,Asistente
+38,Revisión Financiera,2023-10-02 11:58:24.088318,Analista Técnico
+38,Asignación de Recursos,2023-10-02 12:06:51.167205,Encargado de Recursos
+38,Recepción de Solicitud,2023-10-02 12:12:44.109097,Auditor
+39,Asignación de Recursos,2023-10-02 12:08:01.300012,Encargado de Recursos
+39,Recepción de Solicitud,2023-10-02 12:16:29.856706,Operador
+39,Cierre de Caso,2023-10-02 12:25:58.192727,Supervisor
+39,Control de Calidad,2023-10-02 12:32:36.923423,Auditor
+39,Revisión Financiera,2023-10-02 12:45:04.927074,Analista Financiero
+56,Cierre de Caso,2023-10-03 08:04:50.046989,Supervisor
+56,Revisión Financiera,2023-10-03 08:09:27.056992,Analista Financiero
+56,Asignación de Recursos,2023-10-03 08:15:44.283351,Encargado de Recursos
+560,Cierre de Caso,2023-10-03 12:34:22.744920,Operador
+560,Ejecución de Tarea,2023-10-03 12:36:40.495087,Supervisor
+560,Revisión Financiera,2023-10-03 12:39:19.526014,Analista Financiero
+561,Cierre de Caso,2023-10-03 13:05:05.237466,Asistente
+561,Aprobación de Supervisor,2023-10-03 13:05:34.461430,Supervisor
+561,Recepción de Solicitud,2023-10-03 13:09:15.138225,Asistente
+561,Asignación de Recursos,2023-10-03 13:10:38.422652,Supervisor
+562,Ejecución de Tarea,2023-10-03 13:32:09.965627,Asistente
+562,Asignación de Recursos,2023-10-03 13:37:06.833056,Analista Técnico
+562,Revisión Financiera,2023-10-03 13:38:53.718324,Asistente
+562,Recepción de Solicitud,2023-10-03 13:43:30.113669,Analista Técnico
+563,Recepción de Solicitud,2023-10-03 13:57:23.674646,Encargado de Recursos
+563,Control de Calidad,2023-10-03 13:58:08.319201,Asistente
+563,Ejecución de Tarea,2023-10-03 14:01:37.839842,Analista Técnico
+563,Revisión Financiera,2023-10-03 14:03:33.746382,Supervisor
+564,Cierre de Caso,2023-10-03 14:35:18.433319,Encargado de Recursos
+564,Revisión Financiera,2023-10-03 14:43:15.681754,Supervisor
+564,Evaluación Técnica,2023-10-03 14:49:23.326843,Operador
+565,Evaluación Técnica,2023-10-03 15:04:41.853284,Supervisor
+565,Aprobación de Supervisor,2023-10-03 15:11:02.947807,Analista Financiero
+565,Revisión Financiera,2023-10-03 15:15:46.189936,Supervisor
+566,Ejecución de Tarea,2023-10-03 15:32:05.365919,Operador
+566,Cierre de Caso,2023-10-03 15:37:14.000333,Supervisor
+566,Asignación de Recursos,2023-10-03 15:37:32.945928,Analista Financiero
+566,Evaluación Técnica,2023-10-03 15:37:49.433830,Operador
+566,Revisión Financiera,2023-10-03 15:38:32.952216,Supervisor
+566,Recepción de Solicitud,2023-10-03 15:39:09.520031,Analista Financiero
+567,Control de Calidad,2023-10-03 16:03:57.867774,Supervisor
+567,Cierre de Caso,2023-10-03 16:06:50.212199,Asistente
+567,Recepción de Solicitud,2023-10-03 16:10:41.677609,Encargado de Recursos
+567,Asignación de Recursos,2023-10-03 16:11:48.377357,Analista Financiero
+568,Ejecución de Tarea,2023-10-03 16:36:19.921577,Auditor
+568,Recepción de Solicitud,2023-10-03 16:41:03.212238,Asistente
+568,Aprobación de Supervisor,2023-10-03 16:44:16.048780,Auditor
+568,Asignación de Recursos,2023-10-03 16:49:34.653696,Asistente
+569,Cierre de Caso,2023-10-03 17:05:40.178656,Encargado de Recursos
+569,Aprobación de Supervisor,2023-10-03 17:10:33.499296,Analista Financiero
+569,Recepción de Solicitud,2023-10-03 17:18:48.441558,Auditor
+569,Evaluación Técnica,2023-10-03 17:23:41.013463,Encargado de Recursos
+57,Recepción de Solicitud,2023-10-03 08:35:42.744567,Asistente
+57,Asignación de Recursos,2023-10-03 08:37:22.264798,Analista Técnico
+57,Ejecución de Tarea,2023-10-03 08:40:36.192642,Asistente
+570,Cierre de Caso,2023-10-03 17:35:47.196076,Auditor
+570,Ejecución de Tarea,2023-10-03 17:42:58.857493,Asistente
+570,Aprobación de Supervisor,2023-10-03 17:47:04.812149,Analista Técnico
+58,Aprobación de Supervisor,2023-10-03 09:05:31.199292,Analista Técnico
+58,Revisión Financiera,2023-10-03 09:10:30.561767,Auditor
+58,Ejecución de Tarea,2023-10-03 09:21:02.039920,Analista Técnico
+58,Recepción de Solicitud,2023-10-03 09:27:38.401365,Auditor
+58,Evaluación Técnica,2023-10-03 09:31:45.063710,Analista Técnico
+59,Evaluación Técnica,2023-10-03 09:31:53.683867,Supervisor
+59,Cierre de Caso,2023-10-03 09:32:27.459378,Auditor
+59,Recepción de Solicitud,2023-10-03 09:34:34.316588,Encargado de Recursos
+60,Cierre de Caso,2023-10-03 10:01:54.150403,Operador
+60,Revisión Financiera,2023-10-03 10:06:46.850819,Analista Financiero
+60,Recepción de Solicitud,2023-10-03 10:08:51.242136,Supervisor
+60,Evaluación Técnica,2023-10-03 10:09:02.995152,Operador
+60,Control de Calidad,2023-10-03 10:14:00.877161,Analista Financiero
+61,Evaluación Técnica,2023-10-03 10:34:08.816814,Analista Financiero
+61,Ejecución de Tarea,2023-10-03 10:37:16.771851,Operador
+61,Cierre de Caso,2023-10-03 10:45:01.804161,Analista Financiero
+62,Aprobación de Supervisor,2023-10-03 11:06:52.864556,Encargado de Recursos
+62,Cierre de Caso,2023-10-03 11:14:05.351174,Analista Técnico
+62,Recepción de Solicitud,2023-10-03 11:21:05.205567,Operador
+63,Asignación de Recursos,2023-10-03 11:33:12.655511,Asistente
+63,Control de Calidad,2023-10-03 11:35:46.827630,Analista Técnico
+63,Evaluación Técnica,2023-10-03 11:37:58.354557,Asistente
+63,Recepción de Solicitud,2023-10-03 11:38:49.647610,Analista Técnico
+64,Asignación de Recursos,2023-10-03 12:01:04.435521,Analista Financiero
+64,Cierre de Caso,2023-10-03 12:04:18.097548,Supervisor
+64,Control de Calidad,2023-10-03 12:08:31.419669,Analista Financiero
+64,Ejecución de Tarea,2023-10-03 12:08:50.006153,Asistente

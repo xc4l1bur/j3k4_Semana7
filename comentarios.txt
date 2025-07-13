@@ -1,0 +1,32 @@
+PASO 1
+=======
+
+El gráfico “Clusters de Casos: Duración vs Número de Actividades” muestra tres grupos diferenciados por color (clusters 0, 1 y 2). Su interpretación es:
+
+1. **Cluster 0 (rosado claro)**
+
+   * **Duración:** por lo general corta, entre \~5 y 30 minutos.
+   * **Actividades:** baja cantidad, entre 3 y 6 actividades.
+   * **Significado:** casos muy breves y con poco recorrido; probablemente procesos estándar o excepciones rápidas.
+
+2. **Cluster 2 (oscuro)**
+
+   * **Duración:** intermedia, alojada principalmente entre 30 y 60 min.
+   * **Actividades:** en torno a 4–6 actividades.
+   * **Significado:** procesos con un flujo moderado de pasos; quizá incluyen validaciones o aprobaciones adicionales.
+
+3. **Cluster 1 (magenta)**
+
+   * **Duración:** más larga, llegando hasta 95 minutos.
+   * **Actividades:** también suele tener de 5 a 6 actividades.
+   * **Significado:** casos complejos o atípicos con mayor tiempo de espera entre pasos, re-trabajos o roles adicionales.
+
+**Conclusión**:
+
+* La segmentación identifica claramente tres perfiles de “peso” en el proceso operativo:
+
+  * **Rápidos y simples** (cluster 0),
+  * **Intermedios** (cluster 2),
+  * **Lentos y/o complejos** (cluster 1).
+
+Esa clasificación permite, por ejemplo, priorizar mejoras en los casos más largos, o investigar por qué cierto grupo de casos se resuelve tan rápido y si es replicable.

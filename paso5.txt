@@ -1,0 +1,40 @@
+**5. Reflexión y Propuesta**
+
+**Reflexión sobre la mejora operacional**
+
+1. **Segmentación focaliza esfuerzos**
+
+   * Al clasificar los casos en tres perfiles (rápidos, intermedios y lentos), podemos dedicar recursos y controles distintos a cada grupo en lugar de tratar el proceso como un “todo uniforme”.
+   * Por ejemplo, los **casos lentos** (cluster 1) absorben mucho tiempo y pasos que pueden ser innecesarios para ciertos flujos; si los identificamos y aislamos, podemos agilizar el resto de la operación.
+
+2. **Diagnóstico de cuellos de botella**
+
+   * El RMSE y el R² de los modelos de regresión muestran qué tan predecible es la duración en cada clúster. Un R² bajo indica que hay alta variabilidad (“sorpresas”) y potenciales retrasos inesperados: esos procesos requieren análisis más profundo de sus actividades o roles.
+
+3. **Base para indicadores de desempeño (KPIs)**
+
+   * Podemos definir umbrales de duración por clúster (por ejemplo, 90% de los casos rápidos < 30 min; deseable), lo que facilita medir desviaciones y activar alertas tempranas.
+
+---
+
+**Propuesta práctica de optimización**
+
+> **Automatizar y simplificar las etapas críticas en el cluster lento (cluster 1):**
+
+1. **Reducir aprobaciones manuales**
+
+   * Identificar las actividades más frecuentes de “espera” o “validación” en cluster 1 (por ejemplo, “Aprobación de Supervisor”) y automatizar reglas sencillas dentro del workflow (si todos los datos obligatorios están completos, pasar directamente al siguiente paso).
+
+2. **Agrupar roles o dotar multitarea**
+
+   * Si actualmente intervienen 4–5 roles distintos, reorganizar tareas para que un solo equipo o perfil multifuncional atienda varios pasos consecutivos sin tener que traspasar casos entre departamentos.
+
+3. **Implementar “pre-checks” automáticos**
+
+   * Antes de iniciar el caso, validar en forma proactiva datos clave (e.g. formatos, campos obligatorios) mediante scripts o formularios interactivos. Esto reduce retrabajos y reenvíos dentro del clúster lento.
+
+4. **Monitoreo dinámico con dashboards**
+
+   * Crear un tablero en tiempo real que muestre la distribución de los casos por clúster y su avance. Permite detectar si un caso lento supera cierto umbral de tiempo y notifica al coordinador para intervención inmediata.
+
+Con estas acciones orientadas a la automatización y redistribución de responsabilidades, se espera reducir en al menos un 20 % la duración promedio de los procesos lentos, acercándolos al perfil intermedio, y liberar capacidad para nuevos casos sin aumentar personal.
